@@ -14,11 +14,11 @@ sudo apt install -y gpg xz-utils
 
 # Install dependencies
 sudo apt install -y \
-    libgl1:armhf libasound2:armhf libc6:armhf \
+    libgl1:armhf libc6:armhf \
     libgstreamer-plugins-base1.0-0:armhf libgstreamer1.0-0:armhf \
     libpulse0:armhf libsane1:armhf libudev1:armhf libunwind8:armhf \
     libusb-1.0-0:armhf libx11-6:armhf libxext6:armhf \
-    ocl-icd-libopencl1:armhf libopencl1:armhf libasound2-plugins:armhf \
+    ocl-icd-libopencl1:armhf libopencl1:armhf \
     libncurses6:armhf \
     libdbus-1-3:armhf libfontconfig1:armhf libfreetype6:armhf \
     libglu1-mesa:armhf libglu1:armhf libgsm1:armhf \
@@ -27,12 +27,12 @@ sudo apt install -y \
     libxcursor1:armhf libxfixes3:armhf libxi6:armhf \
     libxinerama1:armhf libxrandr2:armhf libxrender1:armhf \
     libxslt1.1:armhf libxxf86vm1:armhf \
-    libgl1:arm64 libasound2:arm64 libc6:arm64 \
+    libgl1:arm64 libc6:arm64 \
     libglib2.0-0:arm64 \
     libgstreamer-plugins-base1.0-0:arm64 libgstreamer1.0-0:arm64 \
     libpulse0:arm64 libsane1:arm64 libudev1:arm64 libunwind8:arm64 \
     libusb-1.0-0:arm64 libx11-6:arm64 libxext6:arm64 \
-    ocl-icd-libopencl1:arm64 libopencl1:arm64 libasound2-plugins:arm64 \
+    ocl-icd-libopencl1:arm64 libopencl1:arm64 \
     libncurses6:arm64 libcups2:arm64 \
     libdbus-1-3:arm64 libfontconfig1:arm64 libfreetype6:arm64 \
     libglu1-mesa:arm64 libglu1:arm64 libgsm1:arm64 \
