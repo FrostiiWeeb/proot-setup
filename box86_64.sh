@@ -19,7 +19,7 @@ sudo apt install -y \
     libpulse0:armhf libsane1:armhf libudev1:armhf libunwind8:armhf \
     libusb-1.0-0:armhf libx11-6:armhf libxext6:armhf \
     ocl-icd-libopencl1:armhf libopencl1:armhf libasound2-plugins:armhf \
-    libncurses6:armhf libcups2:armhf \
+    libncurses6:armhf \
     libdbus-1-3:armhf libfontconfig1:armhf libfreetype6:armhf \
     libglu1-mesa:armhf libglu1:armhf libgsm1:armhf \
     libgssapi-krb5-2:armhf libjpeg8:armhf libkrb5-3:armhf \
