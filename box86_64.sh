@@ -15,14 +15,13 @@ sudo apt install -y gpg xz-utils
 # Install dependencies
 sudo apt install -y \
     libgl1:armhf libasound2:armhf libc6:armhf \
-    libglib2.0-0:armhf \
     libgstreamer-plugins-base1.0-0:armhf libgstreamer1.0-0:armhf \
     libpulse0:armhf libsane1:armhf libudev1:armhf libunwind8:armhf \
     libusb-1.0-0:armhf libx11-6:armhf libxext6:armhf \
     ocl-icd-libopencl1:armhf libopencl1:armhf libasound2-plugins:armhf \
-    libncurses6:armhf libcapi20-3:armhf libcups2:armhf \
+    libncurses6:armhf libcups2:armhf \
     libdbus-1-3:armhf libfontconfig1:armhf libfreetype6:armhf \
-    libglu1-mesa:armhf libglu1:armhf libgnutls30:armhf libgsm1:armhf \
+    libglu1-mesa:armhf libglu1:armhf libgsm1:armhf \
     libgssapi-krb5-2:armhf libjpeg8:armhf libkrb5-3:armhf \
     libosmesa6:armhf libsdl2-2.0-0:armhf libxcomposite1:armhf \
     libxcursor1:armhf libxfixes3:armhf libxi6:armhf \
@@ -34,9 +33,9 @@ sudo apt install -y \
     libpulse0:arm64 libsane1:arm64 libudev1:arm64 libunwind8:arm64 \
     libusb-1.0-0:arm64 libx11-6:arm64 libxext6:arm64 \
     ocl-icd-libopencl1:arm64 libopencl1:arm64 libasound2-plugins:arm64 \
-    libncurses6:arm64 libcapi20-3:arm64 libcups2:arm64 \
+    libncurses6:arm64 libcups2:arm64 \
     libdbus-1-3:arm64 libfontconfig1:arm64 libfreetype6:arm64 \
-    libglu1-mesa:arm64 libglu1:arm64 libgnutls30:arm64 libgsm1:arm64 \
+    libglu1-mesa:arm64 libglu1:arm64 libgsm1:arm64 \
     libgssapi-krb5-2:arm64 libjpeg8:arm64 libkrb5-3:arm64 \
     libosmesa6:arm64 libsdl2-2.0-0:arm64 libxcomposite1:arm64 \
     libxcursor1:arm64 libxfixes3:arm64 libxi6:arm64 \
